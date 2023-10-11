@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project_Kourse.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="54"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit_main_form.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form_Main"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unit_Main_Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="160"/>
+        <CursorPos X="4" Y="147"/>
+        <UsageCount Value="54"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit_spiski.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unit_Spiski"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="43"/>
+        <UsageCount Value="54"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit_files.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="42"/>
+        <UsageCount Value="54"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3597"/>
+        <CursorPos Y="3612"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\include\menuitem.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="284"/>
+        <CursorPos Y="301"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\interfaces\win32\win32callback.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2754"/>
+        <CursorPos Y="2772"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\interfaces\win32\win32wsforms.pp"/>
+        <UnitName Value="Win32WSForms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="382"/>
+        <CursorPos Y="397"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\interfaces\win32\win32object.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="389"/>
+        <CursorPos X="24" Y="393"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\interfaces\win32\win32winapi.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2754"/>
+        <CursorPos Y="2770"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <UnitName Value="Grids"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10110"/>
+        <CursorPos Y="10126"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="unit_spiski.pas"/>
+        <Caret Line="294" TopLine="179"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_spiski.pas"/>
+        <Caret Line="295" TopLine="179"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_spiski.pas"/>
+        <Caret Line="296" TopLine="179"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_spiski.pas"/>
+        <Caret Line="294" TopLine="179"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_spiski.pas"/>
+        <Caret Line="295" TopLine="179"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_spiski.pas"/>
+        <Caret Line="296" TopLine="179"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_spiski.pas"/>
+        <Caret Line="294" TopLine="179"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_spiski.pas"/>
+        <Caret Line="298" TopLine="179"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_spiski.pas"/>
+        <Caret Line="291" TopLine="179"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_spiski.pas"/>
+        <Caret Line="288" TopLine="179"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_spiski.pas"/>
+        <Caret Line="300" TopLine="179"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_main_form.pas"/>
+        <Caret Line="94" Column="11" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_main_form.pas"/>
+        <Caret Line="91" Column="10" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_main_form.pas"/>
+        <Caret Line="335" Column="93" TopLine="250"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_main_form.pas"/>
+        <Caret Line="341" Column="93" TopLine="245"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_main_form.pas"/>
+        <Caret Line="239" Column="59" TopLine="160"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_main_form.pas"/>
+        <Caret Line="218" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_spiski.pas"/>
+        <Caret Line="288" TopLine="271"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_spiski.pas"/>
+        <Caret Line="289" TopLine="271"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_spiski.pas"/>
+        <Caret Line="290" TopLine="271"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_spiski.pas"/>
+        <Caret Line="291" TopLine="271"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_spiski.pas"/>
+        <Caret Line="292" TopLine="271"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_spiski.pas"/>
+        <Caret Line="293" TopLine="271"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_spiski.pas"/>
+        <Caret Line="294" TopLine="271"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_spiski.pas"/>
+        <Caret Line="295" TopLine="271"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_spiski.pas"/>
+        <Caret Line="296" TopLine="271"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_main_form.pas"/>
+        <Caret Line="132" Column="35" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_main_form.pas"/>
+        <Caret Line="138" Column="8" TopLine="121"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_main_form.pas"/>
+        <Caret Line="147" Column="46" TopLine="127"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_main_form.pas"/>
+        <Caret Line="122" Column="34" TopLine="104"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
